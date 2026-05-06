@@ -20,12 +20,12 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 ### GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhnhanzxc&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhnhanzxc&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnhanzxc&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnhanzxc&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -52,20 +52,16 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 ---
 
-### Contribution Activity
+### Contribution Animation
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/ocean.gif" alt="Snake Animation" />
 </div>
 
 ---
 
 ### Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=thanhnhanzxc&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=thanhnhanzxc&theme=tokyonight&no-frame=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -85,7 +81,7 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 <div align="center">
   <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=thanhnhanzxc&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
