@@ -20,12 +20,12 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 ### GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhnhanzxc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhnhanzxc&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnhanzxc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnhanzxc&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -37,27 +37,29 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 #### Mobile Development
 [![My Skills](https://skillicons.dev/icons?i=react,flutter,figma)](https://skillicons.dev)
-*(React Native, Expo, Mobile UI/UX, Push Notifications)*
+<br />*(React Native, Expo, Mobile UI/UX, Push Notifications)*
 
 #### AI & Machine Learning
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,py)](https://skillicons.dev)
-*(Machine Learning, Deep Learning, Computer Vision, Data Mining, Big Data)*
+<br />*(Machine Learning, Deep Learning, Computer Vision, Data Mining, Big Data)*
 
 #### Cloud & DevOps
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,supabase,cloudflare,firebase,docker,vercel,nginx,linux)](https://skillicons.dev)
 
 #### Essential Tools & Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,redis,jest)](https://skillicons.dev)
-*(Tableau, Power BI, WebSocket, Performance Optimization, CI/CD)*
+<br />*(Tableau, Power BI, WebSocket, Performance Optimization, CI/CD)*
 
 ---
 
 ### Contribution Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
@@ -85,5 +87,5 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
   <br />
-  <img src="https://visitcount.itsvg.in/api?id=thanhnhanzxc&icon=0&color=0" alt="Visit Count" />
+  <img src="https://komarev.com/ghpvc/?username=thanhnhanzxc&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
