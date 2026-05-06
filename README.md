@@ -50,6 +50,13 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 ---
 
+### 3D Contribution Graph
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+---
+
 ### Dynamic Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/ocean.gif" alt="Snake Animation" />
