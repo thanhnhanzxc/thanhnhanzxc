@@ -86,5 +86,5 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
   <br />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthanhnhanzxc&count_bg=%232EA44F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=thanhnhanzxc&color=blue&style=flat-square&label=VIEWS" alt="Views" />
 </div>
