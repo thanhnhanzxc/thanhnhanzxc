@@ -23,12 +23,7 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 ### GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhnhanzxc&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnhanzxc&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
