@@ -86,5 +86,5 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=thanhnhanzxc&color=blue&style=flat-square&label=REAL+VIEWS" alt="Real Views" />
+  <img src="https://komarev.com/ghpvc/?username=thanhnhanzxc&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
