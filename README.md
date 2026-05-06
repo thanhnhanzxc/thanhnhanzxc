@@ -3,78 +3,77 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Presale+(Solution+Architecture);Project+Manager+at+FIS+BNK+HCM;Full-stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Presale+(Solution+Architecture);Project+Manager+at+FIS+BNK+HCM;Senior+Full-stack+Developer;Enterprise+Solution+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <p>Building high-performance applications and architecting enterprise solutions.</p>
+  <p><b>Bridging the gap between Complex Technology and Business Excellence.</b></p>
+  <img src="https://img.shields.io/badge/Experience-2+_Years-blue?style=for-the-badge&logo=expertsexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-50+-orange?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commits-5,000+-success?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
 
-### Professional Profile
-I am a Solution Architect and Project Manager currently working at **FPT Information System (FIS BNK HCM)**. I graduated in April 2026 and have transitioned into a strategic role where I bridge the gap between technical excellence and business requirements.
+### Professional Summary
+I am a **Solution Architect** and **Project Manager** at **FPT Information System (FIS BNK HCM)**. With a background in Full-stack Development and a deep understanding of Cloud Infrastructure, I specialize in architecting scalable enterprise solutions that drive digital transformation.
 
-- **Current Role**: Presale (Solution Architecture / Project Manager) at FIS BNK HCM.
-- **Education**: Graduated April 2026.
-- **Focus**: Enterprise Architecture, Full-stack Development, and AI-driven Solutions.
+- 💼 **Current Role**: Presale (Solution Architecture / Project Manager) @ FIS BNK HCM
+- 🎓 **Education**: Graduated April 2026
+- 🚀 **Specialization**: Scalable Microservices, AI Integration, and Cloud-Native Architecture
 
 ---
 
-### GitHub Metrics
+### Expertise & Core Skills
+
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <table>
+    <tr>
+      <td width="50%" align="center"><b>Frontend Mastery</b></td>
+      <td width="50%" align="center"><b>Backend & Infrastructure</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,bootstrap,figma" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,py,aws,docker,linux" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center"><b>AI & Machine Learning</b></td>
+      <td width="50%" align="center"><b>Tools & Databases</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=tensorflow,py" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,redis,jest" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### GitHub Analytics
+### Strategic Impact
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### Skills & Technologies
-
-#### Web Development
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,nodejs,spring,tailwind,bootstrap,html,css)](https://skillicons.dev)
-
-#### Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,figma)](https://skillicons.dev)
-<br />*(React Native, Expo, Mobile UI/UX, Push Notifications)*
-
-#### AI & Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,py)](https://skillicons.dev)
-<br />*(Machine Learning, Deep Learning, Computer Vision, Data Mining, Big Data)*
-
-#### Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,supabase,cloudflare,firebase,docker,vercel,nginx,linux)](https://skillicons.dev)
-
-#### Essential Tools & Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,redis,jest)](https://skillicons.dev)
-<br />*(Tableau, Power BI, WebSocket, Performance Optimization, CI/CD)*
-
----
-
-### 3D Contribution Graph
+### 3D Enterprise Architecture
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
 
-### Dynamic Activity
+### Active Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/ocean.gif" alt="Snake Animation" />
-</div>
-
----
-
-### Trophies
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=thanhnhanzxc&theme=tokyonight&no-frame=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
