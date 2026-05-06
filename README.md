@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  <h3>Presale (Solution Architecture / Project Manager) at FPT Information System (FIS BNK HCM)</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Presale+(Solution+Architecture);Project+Manager+at+FIS+BNK+HCM;Full-stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <p>Building high-performance applications and architecting enterprise solutions.</p>
 </div>
 
@@ -52,7 +55,7 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 ---
 
-### Contribution Animation
+### Dynamic Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/ocean.gif" alt="Snake Animation" />
 </div>
@@ -83,5 +86,6 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=thanhnhanzxc&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-111,234-blue?style=flat-square&logo=github" alt="Fake Views" />
+  <img src="https://komarev.com/ghpvc/?username=thanhnhanzxc&color=blue&style=flat-square&label=REAL+VIEWS" alt="Real Views" />
 </div>
