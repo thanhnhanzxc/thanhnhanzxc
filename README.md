@@ -23,7 +23,7 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
 
 ### GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhnhanzxc&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhnhanzxc&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -86,6 +86,5 @@ I am a Solution Architect and Project Manager currently working at **FPT Informa
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
   <br />
-  <img src="https://img.shields.io/badge/Profile_Views-111,234-blue?style=flat-square&logo=github" alt="Fake Views" />
   <img src="https://komarev.com/ghpvc/?username=thanhnhanzxc&color=blue&style=flat-square&label=REAL+VIEWS" alt="Real Views" />
 </div>
