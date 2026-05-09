@@ -75,7 +75,7 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
 
 ### Active Contributions
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/output/ocean.gif" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/ryo-ma/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
