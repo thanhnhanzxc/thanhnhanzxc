@@ -24,50 +24,52 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
 
 ---
 
+### Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thanhnhanzxc&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### Expertise & Core Skills
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center"><b>Frontend Mastery</b></td>
-      <td width="50%" align="center"><b>Backend & Infrastructure</b></td>
+      <td width="50%" align="center"><b>Web Development</b></td>
+      <td width="50%" align="center"><b>Mobile Development</b></td>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,bootstrap,figma" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,vite,tailwind,bootstrap,figma" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,py,aws,docker,linux" />
+        <img src="https://skillicons.dev/icons?i=react,flutter,swift" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center"><b>AI & Machine Learning</b></td>
-      <td width="50%" align="center"><b>Tools & Databases</b></td>
+      <td width="50%" align="center"><b>Cloud & DevOps</b></td>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=tensorflow,py" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,py" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,redis,jest" />
+        <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,githubactions,docker,nginx,vercel,linux" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><b>Essential Tools & Databases</b></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,postman,npm,prometheus,grafana,elasticsearch,jest" />
       </td>
     </tr>
   </table>
 </div>
 
----
-
-### Strategic Impact
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhnhanzxc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 3D Enterprise Architecture
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
 
 ---
 
