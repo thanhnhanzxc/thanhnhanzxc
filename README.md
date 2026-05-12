@@ -64,7 +64,7 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,spring,powershell,nestjs,redhat,redis,git,postman,npm,prometheus,maven,elasticsearch,gitlab,dart,cloudflare,gradle,jenkins,ruby,rust,selenium,vscode,visualstudio,solidity,sqlite,redux,reactivex,rabbitmq,nodejs" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,spring,powershell,nestjs,redhat,redis,git,postman,npm,prometheus,maven,elasticsearch,gitlab,dart,cloudflare,gradle,jenkins,ruby,rust,selenium,vscode,visualstudio,solidity,sqlite,redux,reactivex,rabbitmq,nodejs,kotlin" />
       </td>
     </tr>
   </table>
