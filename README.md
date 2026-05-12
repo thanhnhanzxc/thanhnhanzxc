@@ -41,7 +41,7 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,vite,tailwind,bootstrap,figma" />
+        <img src="https://skillicons.dev/icons?i=nextjs,angular,react,ts,vite,tailwind,bootstrap,figma" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=react,flutter,swift" />
@@ -64,7 +64,7 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,postman,npm,prometheus,grafana,elasticsearch,jest" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,spring,py,nestjs,redhat,redis,git,postman,npm,prometheus,grafana,elasticsearch,gitlab,dart,cloudflare,gradle,jenkins,ruby,rust,selenium" />
       </td>
     </tr>
   </table>
