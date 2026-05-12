@@ -53,7 +53,7 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,py" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,py,pytorch,opencv" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,githubactions,docker,nginx,vercel,linux" />
@@ -64,7 +64,7 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,spring,py,nestjs,redhat,redis,git,postman,npm,prometheus,grafana,elasticsearch,gitlab,dart,cloudflare,gradle,jenkins,ruby,rust,selenium" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,spring,powershell,nestjs,redhat,redis,git,postman,npm,prometheus,maven,elasticsearch,gitlab,dart,cloudflare,gradle,jenkins,ruby,rust,selenium,vscode,visualstudio,solidity,sqlite,redux,reactivex,rabbitmq,nodejs" />
       </td>
     </tr>
   </table>
