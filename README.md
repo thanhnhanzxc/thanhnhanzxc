@@ -24,9 +24,9 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
 
 ---
 
-### Strategic Impact
+### Achievements
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sindresorhus&theme=tokyonight" alt="GitHub Summary Card" />
+  <img src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/main/dist/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ---
