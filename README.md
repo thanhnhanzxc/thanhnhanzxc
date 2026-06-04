@@ -24,9 +24,9 @@ I am a **Solution Architect** and **Project Manager** at **FPT Information Syste
 
 ---
 
-### Achievements
+### Strategic Impact
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindresorhus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
