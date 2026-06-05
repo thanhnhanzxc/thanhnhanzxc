@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Presale+(Solution+Architecture);Project+Manager+at+FIS+BNK+HCM;Junior+Full-stack+Developer;Enterprise+Solution+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Presale+(Solution+Architecture);Project+Coordinator+at+FIS+BNK+HCM;Junior+Full-stack+Developer;Enterprise+Solution+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,9 +16,9 @@
 ---
 
 ### Professional Summary
-I am a **Solution Architect** and **Project Manager** at **FPT Information System (FIS BNK HCM)**. With a background in Full-stack Development and a deep understanding of Cloud Infrastructure, I specialize in architecting scalable enterprise solutions that drive digital transformation.
+I am a **Solution Architect** and **Project Coordinator** at **FPT Information System (FIS BNK HCM)**. With a background in Full-stack Development and a deep understanding of Cloud Infrastructure, I specialize in architecting scalable enterprise solutions that drive digital transformation.
 
-- 💼 **Current Role**: Presale (Solution Architecture / Project Manager) @ FIS BNK HCM
+- 💼 **Current Role**: Presale (Solution Architecture / Project Coordinator) @ FIS BNK HCM
 - 🎓 **Education**: Graduated April 2026
 - 🚀 **Specialization**: Scalable Microservices, AI Integration, and Cloud-Native Architecture
 
