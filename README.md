@@ -92,7 +92,7 @@ I am a **Solution Architect** and **Project Coordinator** at **FPT Information S
   <a href="https://www.instagram.com/_n.t.nhaan_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/nguyen-thanh-nhan-b76b74161/" target="_blank">
+  <a href="https://www.linkedin.com/in/thanhnhandz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
