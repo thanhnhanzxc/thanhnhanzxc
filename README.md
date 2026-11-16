@@ -24,23 +24,6 @@ I am a **Solution Consultant** at **FPT Information System (FIS BNK HCM)**. With
 
 ---
 
-### 🏛️ Key Presales & Enterprise Solutions (FPT IS)
-
-| Customer / Initiative | Role | Domain / Tech Focus | Period |
-| :--- | :--- | :--- | :---: |
-| **ACB** Cash Vault & AI Vision POC | **Project Lead / Presales Lead** | AI Vision (CCTV, OCR, Barcode), Cash Vault Ops | Jul 2026 – Oct 2026 |
-| **VietJet Aviation** Datadog APM POC | **Project Lead / Presales Lead** | Datadog APM, Distributed Tracing, Full-Stack Observability | Jul 2026 – Oct 2026 |
-| **BVBank** Oracle Exadata Cloud@Customer | Technical Presales / Coordinator | Oracle Exadata C@C, Core Banking, DWH, UAT | Mar 2026 – Oct 2026 |
-| **Eximbank** Redis Enterprise Solution | Solution Consultant / Presales | Redis Enterprise Active-Active HA, Vector Search & RAG | Jun 2026 – Aug 2026 |
-| **Vikki Bank** SD-WAN Deployment | PMO / Project Governance | SD-WAN, Enterprise Networking, Workstream Coordination | Jul 2026 – Oct 2026 |
-| **OCB** Core Banking & DB Optimization | Solution Consultant / Presales | Core Banking, SQL Optimization, RFP Technical Proposal | May 2026 – Jun 2026 |
-| **Vietbank** Infra & Database Sizing | Solution Engineer / Presales | DC/DR Architecture, PostgreSQL, MS SQL Server, BOM | Aug 2026 – Oct 2026 |
-| **MAFC** Data Center Relocation | Solution Coordination / Presales | Data Center Migration, Infrastructure Dependencies | Aug 2026 – Nov 2026 |
-| **Enterprise Banking** Oracle DB & Infra Sizing | Solution Engineer / Presales | Oracle Database EE, Server Sizing, DC/DR, Licensing BOM | Apr 2026 – Jun 2026 |
-| **Fintech / Enterprise** WSO2 API & Integration POC | Solution Engineer / Presales | WSO2 API Manager, Enterprise Integration, OAuth2 | Jan 2026 – Mar 2026 |
-
----
-
 ### Achievements
 <div align="center">
   <img src="https://raw.githubusercontent.com/thanhnhanzxc/thanhnhanzxc/main/dist/trophy.svg" alt="GitHub Trophies" />
